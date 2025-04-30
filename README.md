@@ -4,6 +4,9 @@
 - Le joueur contrôle un oiseau qui doit éviter les obstacles en volant entre des tuyaux. 
 - Le jeu comprend un système de score, un highscore persistant et un écran de menu.
 
+![pic 1](pic1.png)
+![pic 2](pic2.png)
+
 ## Technologies utilisées
 
 - [Unity](https://unity.com/)
