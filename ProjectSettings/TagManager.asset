@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ScoreZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - hills
+  - clouds
+  - background
+  - 
+  - pipe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3569314361
+    locked: 0
+  - name: clouds
+    uniqueID: 134027807
+    locked: 0
+  - name: hills
+    uniqueID: 3971204009
+    locked: 0
+  - name: pipes
+    uniqueID: 996993147
+    locked: 0
+  - name: bird
+    uniqueID: 3234701325
+    locked: 0
