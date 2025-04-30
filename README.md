@@ -8,3 +8,9 @@
 
 - [Unity](https://unity.com/)
 - C#
+
+## Sources
+
+- J'ai fait le code et les sprites
+- Les SFX : [Freesound.org](https://freesound.org/)
+- La musique : [Adam "Gecklo" Schwartz](https://soundcloud.com/user-886018235/stardew-valley-journey-of-the-prairie-king-remix-gecklo)
